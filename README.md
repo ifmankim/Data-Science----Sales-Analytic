@@ -2,7 +2,7 @@
 
 # Live Dashboard
   * Link : https://bit.ly/DashboardSalesPBI
-
+![image](https://github.com/ifmankim/Data-Science----Sales-Analytic/assets/146405856/9db85555-3f11-41e8-a799-4e7d6abcaa4a)
 # Use Case
   * Use Case Summary
     
@@ -50,6 +50,7 @@
   * What product we must sales as package ?
 
 # Data Understanding
+
   * Elektronic Sales Transaction from 01 January 2019 to 01 Januari 2020
   * The dataset has 12 sheet with 6 columns and differents rows.
   * Data Dictionary:
@@ -61,10 +62,21 @@
     * Address: The customer address.
 
 # Data preparation
+
   * Code Used:
   * Python Version: 3.10.12
   * Packages: Pandas, Calendar, Matplotlib, Ittertools, Collections, Os
 
 # Data Cleansing
+
   * When we combine 12 sheet into 1 sheet, there is included the header each of sheet. Then remove it.
   * After combining 12 sheet there is 545 NAN Values
+
+# Recomendation
+
+ * The highest sales occurred in December with sales amounting to 13% of all sales throughout the year. This coincides with the year-end holidays and Christmas. Therefore, business teams can increase sales this month by promoting new products to customers this month.
+ * Given California's substantial 40% share in total sales, businesses may benefit from prioritizing and investing resources in this economically robust market.
+ * Optimize advertising strategies by targeting the morning peak at 10 AM for lunchtime demand (11-12 noon) and capitalizing on the evening rush from 6-8 PM.
+ * Leveraging customer buying patterns, bundling iPhones with Lightning cables and Google phones with USB-C cables in a single package not only boosts sales but also streamlines the purchasing process, enhancing customer satisfaction and fostering brand loyalty.
+
+
